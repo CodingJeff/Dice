@@ -18,7 +18,6 @@ void draw()
       Die Jeffrey = new Die(x-25, y+55);
       Jeffrey.show();
       sum=sum+ Jeff.number+Jeffrey.number;
-      System.out.println(sum);
     }
     
   }
